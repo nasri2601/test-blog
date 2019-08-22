@@ -58,6 +58,10 @@ main p
     text-align: justify;
     
 }
+main img
+{
+    margin-left: 20%;
+}
 
 
 .image-aside
@@ -73,6 +77,11 @@ footer
     background-color: rgb(3, 166, 120,0.6);
 }
 
+.twitter
+{
+    margin-left: 5%;
+    margin-top: 1%;
+}
 
 
 h1
